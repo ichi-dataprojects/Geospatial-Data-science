@@ -1,0 +1,16 @@
+---
+title: "Location Maps of Arusha Districts Drawn using ArcMap 10.8"
+description: |
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Study Area Map for Longido](Longido SA map.jpg)
+
+![Study Area Mao for Bahi](Bahi DC SA Map.jpg)
+
+![Study Area Map for Itilima](Itilima SA Map.jpg)

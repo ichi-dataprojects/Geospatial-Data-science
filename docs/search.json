@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "author": [],
+      "contents": "\r\nThis site showcases the power and beauty of geospatial data visualization through the use of tools such as R programming and ArcMap 10.8. Its primary goal is to demonstrate how spatial data can be transformed into meaningful insights, supporting better and more informed decision-making in real-world applications.\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-05-25T23:02:48+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Christmore Setebe",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Geospatial Data science\r\n          \r\n          \r\n          Home\r\n          Topographic Map\r\n          Land cover Map\r\n          Location Map\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Christmore Setebe\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            \r\n            BIO\r\n            Conservation professional and data scientist with\r\n            expertise in biodiversity monitoring, geospatial analytics,\r\n            and sustainable tourism practices. Applies data-based\r\n            approaches to support policy development and decision\r\n            making. Committed to advancing effective wildlife management\r\n            in and around protected areas\r\n            \r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                     GitHub\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                     Contact Us\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Christmore Setebe\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            \r\n            BIO\r\n            Conservation professional and data scientist with\r\n            expertise in biodiversity monitoring, geospatial analytics,\r\n            and sustainable tourism practices. Applies data-based\r\n            approaches to support policy development and decision\r\n            making. Committed to advancing effective wildlife management\r\n            in and around protected areas\r\n            \r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                     GitHub\r\n                    \r\n                \r\n                                \r\n                    \r\n                     Contact Us\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2025-05-25T23:02:51+03:00"
+    }
+  ],
+  "collections": []
+}

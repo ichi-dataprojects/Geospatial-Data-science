@@ -1,0 +1,20 @@
+---
+title: "Christmore Setebe"
+image: "Chris.jpg"
+color1: "#0A54A0"
+color2: "#C66060"
+angle: 130
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/ichi-dataprojects target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: 'https://ichidataanalysis@gmail.com target="_blank"'
+output:
+  postcards::onofre
+site: distill::distill_website  
+---
+## BIO 
+Conservation professional and data scientist with expertise in biodiversity monitoring, geospatial 
+analytics, and sustainable tourism practices. Applies data-based approaches to support policy 
+development and decision making. Committed to advancing effective wildlife management in and 
+around protected areas

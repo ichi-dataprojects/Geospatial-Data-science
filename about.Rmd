@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This site showcases the power and beauty of geospatial data visualization through the use of tools such as R programming and ArcMap 10.8. Its primary goal is to demonstrate how spatial data can be transformed into meaningful insights, supporting better and more informed decision-making in real-world applications.

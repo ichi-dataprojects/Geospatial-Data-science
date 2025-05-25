@@ -1,0 +1,19 @@
+name: "."
+title: "Geospatial Data science"
+description: |
+  Tanzania topographic map
+output_dir: "docs"
+theme: chris-theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Topographic Map"
+      href: Topographic-Map.html
+    - text: "Land cover Map"
+      href: Land-cover-Map.html
+    - text: "Location Map"
+      href: Location-Map.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
